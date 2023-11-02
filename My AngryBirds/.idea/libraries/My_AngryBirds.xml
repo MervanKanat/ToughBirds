@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="My_AngryBirds">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/My_AngryBirds.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
